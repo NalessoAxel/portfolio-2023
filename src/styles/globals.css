@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	background-color: #E6E6E6;
+	color: #797979;
+}
+
+.typed-cursor {
+	width: 300px;
+	color: red;
+}
